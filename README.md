@@ -67,6 +67,13 @@ twine upload dist/*
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/deanyxu">
+                    <img src="https://avatars.githubusercontent.com/u/12771139?v=4" width="100;" alt="deanyxu"/>
+                    <br />
+                    <sub><b>DX</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/JadyXuan">
                     <img src="https://avatars.githubusercontent.com/u/35390572?v=4" width="100;" alt="JadyXuan"/>
                     <br />
@@ -78,13 +85,6 @@ twine upload dist/*
                     <img src="https://avatars.githubusercontent.com/u/63766429?v=4" width="100;" alt="wufei-png"/>
                     <br />
                     <sub><b>Wu Fei</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/deanyxu">
-                    <img src="https://avatars.githubusercontent.com/u/12771139?v=4" width="100;" alt="deanyxu"/>
-                    <br />
-                    <sub><b>DX</b></sub>
                 </a>
             </td>
             <td align="center">
